@@ -43,5 +43,8 @@ Afastando-se dos layouts genéricos de mercado, o aplicativo utiliza uma paleta 
 1. Clone este repositório para o seu computador.
 2. Abra a pasta do projeto no seu editor de código (IDE).
 3. Abra o terminal integrado e baixe as dependências do ecossistema Dart:
-   ```bash
+  
+   ```
+   bash
    flutter pub get
+   ```
