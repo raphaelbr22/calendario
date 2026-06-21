@@ -45,6 +45,5 @@ Afastando-se dos layouts genéricos de mercado, o aplicativo utiliza uma paleta 
 3. Abra o terminal integrado e baixe as dependências do ecossistema Dart:
   
    ```
-   bash
    flutter pub get
    ```
